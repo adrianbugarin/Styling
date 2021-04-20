@@ -1,0 +1,22 @@
+h1{
+    background-color: black;
+    color: white;
+}
+.clfont {
+    color:rgb(168, 168, 239);
+}
+
+h2{
+    background-color: blueviolet;
+    color: whitesmoke;
+    font-style: italic;
+    text-align: center;
+}
+
+h3{
+    background-color: lightblue;
+    color: black;
+    text-decoration: underline;
+    text-align: right;
+
+}
